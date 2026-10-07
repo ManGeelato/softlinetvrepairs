@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-golden-screen-rescue.lovable.app	TRUE	/	FALSE	1999999999	__cf_bm	E5DOeIPj.VNlmxJDUKg7IpLx1YLYxOXxl2SedHMEmpM-1791367202.929113-1.0.1.1-LwyyqxgIDuSZH6b1Tf5tLz99Trma96WTx8ZG5f_PetHzb65AKiP21niXPfRaMvknqD4dPJZfv3HTtj0PkUoDmxxzjHgG2ZWaSOmejtoJbQtFMfnFkYIYpBQGlcVPtxG9
-lovable.app	TRUE	/	FALSE	1999999999	SameSite	None
-
